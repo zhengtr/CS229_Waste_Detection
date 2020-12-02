@@ -1,0 +1,14 @@
+
+#folders
+libraries/
+data/batch*
+svm_results/*
+.idea/
+
+#files
+launch.json
+settings.json
+test*
+*__pycache__*
+*.DS_Store*
+*.pyc

@@ -1,0 +1,5 @@
+classes = 7
+train  = trash_data/train.txt
+valid  = trash_data/val.txt
+names = trash_data/trash.names
+backup = backup/
