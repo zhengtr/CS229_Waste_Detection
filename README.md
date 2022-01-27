@@ -1,5 +1,5 @@
 
-# CS 229 (Machine Learning, Fall 2020) Final Project.
+# CS 229 (Machine Learning, Fall 2020, Stanford University) Final Project.
 Title: Waste Detection Using Different Deep Kearning Methods 
 
 This is the repository cs229 final project.
